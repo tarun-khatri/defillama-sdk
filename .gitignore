@@ -1,8 +1,8 @@
 build
-.env
 node_modules
 .idea
 local_cache
 chainlistOrgCache.json
 depRepos
 *.log
+config.bat
